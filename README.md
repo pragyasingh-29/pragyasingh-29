@@ -40,7 +40,7 @@
 <h2 align="center">Languages-Developer Tools- Technologies/Framework</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,pytorch,python,firebase,mongodb,c,cpp,java,codepen" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,pytorch,python,firebase,mongodb,c,cpp,java,codepen" /><br>
     <img src="https://skillicons.dev/icons?i=r,bootstrap,mysql,tensorflow,html,css,vscode,figma,ai,ps,xd,git,github,githubactions" />
 </div>
 
