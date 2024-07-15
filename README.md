@@ -37,7 +37,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Developer Tools- Technologies/Framework</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,swift,pytorch,python,firebase,mongodb,c,cpp,java,codepen" /><br>
