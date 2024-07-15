@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=green&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pragya+Singh!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer with 8 months of experience in Backend Development </h3>
+<h3 align="center">Full Stack Developer with 8 months of experience as Intern in Backend Development </h3>
 <!-- <img align="right" alt="coding" width="200" src="https://github.com/ananyaa01/ananyaa01/blob/main/Images/codercat1.png"> -->
 <img align="right" alt="coding" width="230" src="https://github.com/ananyaa01/ananyaa01/blob/main/Images/Image%202.png">
 
@@ -16,20 +16,20 @@
  
  🔭 Expertise in Frontend technologies and frameworks which includes Javascript, Bootstrap.
  
- 🌱 I’m currently revising concepts of **Data Structures & Algorithms**
+ 🌱 I’m currently revising concepts of **Data Structures & Algorithms.**
 
  👩‍💻 Backend Developer Intern'24 at **Blue Planet InfoSolutions India Pvt Ltd**.
  
  </div>
  
 <div align="left"> 
-  <a href="mailto:agananya61@gmail.com">
+  <a href="mailto:pragyaaa.singh22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ananya-agarwal-2285081b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/pragya-singh-093507253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://leetcode.com/ananyaa01/" target="_blank">
+  <a href="leetcode.com/u/pragyaa09__/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" target="_blank" />
   </a>
  
