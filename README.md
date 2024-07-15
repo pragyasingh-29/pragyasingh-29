@@ -14,13 +14,11 @@
 
 <div align="left">
  
- 🔭 I’m currently working in **NLP and Voice Analytics**
+ 🔭 Expertise in Frontend technologies and frameworks which includes Javascript, Bootstrap.
  
- 🌱 I’m currently learning **Data Structures & Algorithms**
+ 🌱 I’m currently revising concepts of **Data Structures & Algorithms**
 
- 👩‍💻 SEP Summer Intern'23 at [JP Morgan Chase & Co.](https://www.jpmorgan.com/global)
-
- 💥 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 👩‍💻 Backend Developer Intern'24 at **Blue Planet InfoSolutions India Pvt Ltd**.
  
  </div>
  
