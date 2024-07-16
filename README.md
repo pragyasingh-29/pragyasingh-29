@@ -20,6 +20,10 @@
 
  👩‍💻 Backend Developer Intern'24 at **Blue Planet InfoSolutions India Pvt Ltd**.
  
+ 👯 I’m looking to collaborate on some different projects.
+ 
+ 🤔 I’m looking for help with staying positive and ways to reduce overthinking
+ 
  </div>
  
 <div align="left"> 
