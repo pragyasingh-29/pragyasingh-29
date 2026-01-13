@@ -1,26 +1,26 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=yellow&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pragya+Singh!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer with 8 months of experience in Backend Development </h3>
+<h3 align="center">💼 Salesforce Developer | Apex | LWC | Flows | Platform Security</h3>
 <!-- <img align="right" alt="coding" width="200" src="https://github.com/ananyaa01/ananyaa01/blob/main/Images/codercat1.png"> -->
 <img align="right" alt="coding" width="230" src="https://github.com/pragyasingh-29/pragyasingh-29/blob/main/Images/Image%202.png">
 
 <br/>
 
 <div align="left">
- 
- 🔭 Expertise in Frontend technologies and frameworks which includes Javascript, Bootstrap.
- 
- 🌱 I’m currently revising concepts of **Data Structures & Algorithms.**
 
- 👩‍💻 Backend Developer Intern'24 at **Blue Planet InfoSolutions India Pvt Ltd**.
+ <h2>👩‍💻 About Me </h2>
  
- 👯 I’m looking to collaborate on some different projects.
+ ⚡ Salesforce Developer with hands-on experience in Apex, Lightning Web Components (LWC), Flows, and Salesforce Security.
  
- 🤔 I’m looking for help with staying positive and ways to reduce overthinking
+ 🧩 Experienced in designing scalable, bulk-safe solutions aligned with Salesforce best practices.
+
+ 👩‍💻 Strong understanding of governor limits, bulkification, and platform performance.
+ 
+ 🏢 Actively enhancing skills through Trailhead Superbadges and hands-on problem solving
+ 
+ 📚 I’m looking for help with staying positive and ways to reduce overthinking
  
  </div>
  
