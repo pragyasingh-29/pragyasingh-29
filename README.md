@@ -31,10 +31,9 @@
   <a href="https://www.linkedin.com/in/pragya-singh-093507253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="leetcode.com/u/pragyaa09__/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" target="_blank" />
+  <a href="https://trailhead.salesforce.com/users/YOUR_TRAILHEAD_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   </a>
- 
 </div>
 
  <hr/>
