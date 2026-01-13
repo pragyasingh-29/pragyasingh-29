@@ -39,27 +39,14 @@
 <div>
   <h2>🛠️ Salesforce Skills & Expertise</h2>
 
-    • Apex Programming (Triggers, Classes, Exception Handling)
-    
+    • Apex Programming (Triggers, Classes, Exception Handling.
     • Automation (Record-Triggered Flows, Subflows, Flow vs Apex decisions)
-    
     • Async Apex (Queueable, Batch, Future)
-    
     • Lightning Web Components (LWC)
-    
     • Data Modeling & Security
-    
-    • OWD, Role Hierarchy, Sharing Rules
-    
-    • Profiles vs Permission Sets
-    
-    • Field-Level Security
-    
     • Large Data Volume Handling
-    
     • Governor Limits Optimization
 </div>
-
 
  <hr/>
  
