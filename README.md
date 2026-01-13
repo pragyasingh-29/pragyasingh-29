@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,php" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="48" height="48" title="Apex"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48" height="48"/>
 <br>
     <img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,express,java,vscode,bitbucket,git,github" />
 </div>
