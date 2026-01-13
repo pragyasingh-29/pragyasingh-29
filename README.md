@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/pragya-singh-093507253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://trailhead.salesforce.com/users/YOUR_TRAILHEAD_USERNAME" target="_blank">
+  <a href="https://www.salesforce.com/trailblazer/djlnibiw5t02y54u99" target="_blank">
   <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   </a>
 </div>
@@ -41,7 +41,9 @@
 <h2 align="center">:hammer_and_wrench:Languages-Technologies/Framework-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,php" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="48" height="48" title="Apex"/>
+<br>
     <img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,express,java,vscode,bitbucket,git,github" />
 </div>
 
